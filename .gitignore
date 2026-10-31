@@ -1,0 +1,5 @@
+atualizar.bat
+log.txt
+diagnostico.txt
+__pycache__/
+*.pyc

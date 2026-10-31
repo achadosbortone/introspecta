@@ -1,0 +1,347 @@
+{
+  "nome": "Introspecta",
+  "slogan": "Achados para conforto sensorial, rotina e organização",
+  "descricao": "Vitrine de produtos que podem ajudar no conforto sensorial, na rotina e na organização de pessoas autistas e suas famílias. Ofertas do Mercado Livre de lojas bem avaliadas.",
+  "url_site": "https://achadosbortone.github.io/introspecta/",
+  "instagram": "",
+  "itens_por_categoria": 5,
+  "rodizio": true,
+  "destaques_qtd": 8,
+  "excluir_global": [
+    "usado",
+    "usada",
+    "seminovo",
+    "seminova",
+    "vitrine",
+    "defeito",
+    "sucata",
+    "replica",
+    "réplica",
+    "paralelo",
+    "falsificado",
+    "compativel",
+    "compatível",
+    "curar",
+    "trata ",
+    "tratamento",
+    "terapeutico",
+    "terapêutico",
+    "terapia",
+    "medicinal",
+    "remedio",
+    "remédio",
+    "medicamento",
+    "suplemento",
+    "vitamina",
+    "melatonina",
+    "cbd",
+    "canabidiol",
+    "dieta",
+    "emagrec",
+    "ansiedade",
+    "depressao",
+    "depressão",
+    "insonia",
+    "insônia",
+    "anti-autismo",
+    "tdah",
+    "gabarito",
+    "pdf",
+    "apostila",
+    "download",
+    "pistola",
+    "festa",
+    "natal",
+    "halloween",
+    "arma de",
+    "cura ",
+    " cura"
+  ],
+  "marcas_premium": [
+    "peltor",
+    "alpine",
+    "loop",
+    "bose",
+    "sony",
+    "jbl",
+    "philips",
+    "lego",
+    "hasbro",
+    "estrela",
+    "grow",
+    "mimo",
+    "toyster",
+    "xalingo",
+    "multikids",
+    "pais e filhos",
+    "clementoni",
+    "ravensburger",
+    "tilibra",
+    "fisher-price",
+    "mattel",
+    "oral-b",
+    "colgate",
+    "curaprox",
+    "tramontina",
+    "xiaomi",
+    "hering",
+    "lupo",
+    "3m "
+  ],
+  "categorias": [
+    {
+      "id": "audicao",
+      "nome": "Conforto auditivo",
+      "emoji": "🎧",
+      "queries": [
+        "abafador de ruido",
+        "protetor auricular silicone",
+        "fone com cancelamento de ruido",
+        "abafador de ruido infantil",
+        "tampao de ouvido silicone"
+      ],
+      "exigir_palavras": [
+        "abafador",
+        "protetor auricular",
+        "tampao",
+        "tampão",
+        "cancelamento de ruido",
+        "cancelamento de ruído"
+      ],
+      "excluir": [
+        "tiro",
+        "caca",
+        "caça",
+        "tatico",
+        "tático",
+        "cera",
+        "limpeza",
+        "natacao",
+        "natação"
+      ],
+      "preco_min": 20
+    },
+    {
+      "id": "tatil",
+      "nome": "Conforto tátil",
+      "emoji": "🧸",
+      "queries": [
+        "cobertor ponderado",
+        "meia sem costura",
+        "camiseta sem etiqueta",
+        "almofada sensorial",
+        "roupa sem costura sem etiqueta"
+      ],
+      "exigir_palavras": [
+        "ponderado",
+        "sem costura",
+        "sem etiqueta",
+        "sensorial"
+      ],
+      "excluir": [
+        "erotic",
+        "sexy",
+        "lingerie",
+        "fantasia"
+      ],
+      "preco_min": 20
+    },
+    {
+      "id": "fidgets",
+      "nome": "Fidgets e regulação",
+      "emoji": "🌀",
+      "queries": [
+        "fidget cube",
+        "fidget spinner",
+        "bolinha antiestresse",
+        "pop it",
+        "massinha de modelar atoxica"
+      ],
+      "exigir_palavras": [
+        "fidget",
+        "antiestresse",
+        "anti estresse",
+        "pop it",
+        "spinner",
+        "massinha"
+      ],
+      "excluir": [
+        "slime kit",
+        "glitter explosivo",
+        "veneno",
+        "cheiroso"
+      ],
+      "preco_min": 10
+    },
+    {
+      "id": "rotina",
+      "nome": "Rotina e organização",
+      "emoji": "🗓️",
+      "queries": [
+        "quadro de rotina infantil",
+        "timer visual",
+        "agenda visual",
+        "relogio contagem regressiva",
+        "ampulheta timer"
+      ],
+      "exigir_palavras": [
+        "rotina",
+        "timer",
+        "agenda visual",
+        "contagem regressiva",
+        "ampulheta",
+        "cronometro",
+        "cronômetro"
+      ],
+      "excluir": [
+        "cozinha",
+        "culinario",
+        "culinário",
+        "treino",
+        "academia",
+        "esportivo"
+      ],
+      "preco_min": 15
+    },
+    {
+      "id": "comunicacao",
+      "nome": "Comunicação e emoções",
+      "emoji": "💬",
+      "queries": [
+        "cartoes de comunicacao alternativa",
+        "prancha de comunicacao",
+        "livro sobre emocoes infantil",
+        "cartas das emocoes",
+        "jogo das emocoes"
+      ],
+      "exigir_palavras": [
+        "comunicacao",
+        "comunicação",
+        "prancha",
+        "emocoes",
+        "emoções",
+        "sentimentos"
+      ],
+      "excluir": [
+        "erotic",
+        "adulto +18",
+        "quiz casal",
+        "casal",
+        "relacionamento"
+      ],
+      "preco_min": 15
+    },
+    {
+      "id": "luz",
+      "nome": "Luz e ambiente",
+      "emoji": "🌙",
+      "queries": [
+        "luminaria luz suave quente",
+        "projetor de estrelas",
+        "cortina blackout",
+        "lampada luz quente",
+        "luminaria noturna"
+      ],
+      "exigir_palavras": [
+        "luminaria",
+        "luminária",
+        "projetor",
+        "blackout",
+        "lampada",
+        "lâmpada",
+        "abajur"
+      ],
+      "excluir": [
+        "rgb",
+        "neon",
+        "laser",
+        "strobo",
+        "pisca",
+        "disco",
+        "dj",
+        "caixa de som",
+        "bluetooth",
+        "gamer",
+        "led colorido",
+        "emergencia",
+        "emergência",
+        "refletor",
+        "carro",
+        "moto"
+      ],
+      "preco_min": 25
+    },
+    {
+      "id": "foco",
+      "nome": "Foco e brincar",
+      "emoji": "🧩",
+      "queries": [
+        "blocos de montar",
+        "lego classic",
+        "areia cinetica",
+        "jogo de encaixe",
+        "bolhas de sabao"
+      ],
+      "exigir_palavras": [
+        "bloco",
+        "blocos",
+        "lego",
+        "areia cinetica",
+        "areia cinética",
+        "encaixe",
+        "quebra-cabeca",
+        "quebra-cabeça"
+      ],
+      "excluir": [
+        "arma de",
+        "pistola",
+        "explosivo",
+        "metralhadora",
+        "tiro",
+        "construcao civil",
+        "construção civil",
+        "concreto",
+        "bloco de anotacoes",
+        "bloco de anotações",
+        "bloco de notas",
+        "bloco de desenho",
+        "bloco de papel"
+      ],
+      "preco_min": 30
+    },
+    {
+      "id": "diadia",
+      "nome": "Dia a dia",
+      "emoji": "🎒",
+      "queries": [
+        "escova de dente macia",
+        "escova de dente extra macia infantil",
+        "talher adaptado",
+        "mochila confortavel",
+        "prato com divisorias"
+      ],
+      "exigir_palavras": [
+        "escova de dente",
+        "talher",
+        "colher",
+        "garfo",
+        "mochila",
+        "prato"
+      ],
+      "excluir": [
+        "descartavel",
+        "descartável",
+        "churrasco",
+        "tatica",
+        "tática",
+        "militar",
+        "camping",
+        "trilha",
+        "porcelana decorativo",
+        "eletrica",
+        "elétrica"
+      ],
+      "preco_min": 15
+    }
+  ]
+}
